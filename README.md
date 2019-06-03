@@ -1,8 +1,8 @@
-# IMPORTANT
+# Really easy set up
 
-Your very first action should be run ```npm run begin``` to defined code style
-based on your project's type. This will guide you to obtain an assertive
-development evironment.
+After you've cloned or downloaded this repo from Github the very first action you should do is run ```yarn begin``` (or ```npm run begin```) to define code style based on your project's type. The command above will guide you through a process of definitions about yout project's type, after that will offer you a set of useful features to enforce and accelerate yout job.
+
+After you've done with the setup process, you can start your environment just typing ```yarn start``` (or ```npm run start```) on your shell command.
 
 ___
 title: Javascript generic starter boilerplate
